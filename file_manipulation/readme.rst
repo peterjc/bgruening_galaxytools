@@ -21,8 +21,12 @@ History
 =======
 
 - v0.1: Initial public release
-- the uniq.xml and the sort_rows tools are moved to the unix tools
 
+The ``uniq.xml`` tool has now been moved to the Unix text
+processing tools here:
+
+* https://github.com/bgruening/galaxytools/tree/master/text_processing/text_processing
+* https://toolshed.g2.bx.psu.edu/view/bgruening/text_processing
 
 ===============================
 Wrapper Licence (MIT/BSD style)
